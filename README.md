@@ -1,6 +1,6 @@
 # HeLa-Docetaxel-Titan-RNAseq
 
-This repository provides the documentation and metadata for the bulk RNA-sequencing dataset of Docetaxel-induced 'Titan' HeLa cells, revealing engagement of a Therapy-Induced Senescence (TIS) program at the transcriptome level. The dataset is associated with the 2023 *Aging Cell* publication by Belhadj et al. from the Lomakin Lab at Medical University of Vienna, Austria. 
+This repository provides the documentation and metadata for the bulk RNA-sequencing dataset of Docetaxel-induced 'Titan' HeLa cells, revealing engagement of a Therapy-Induced Senescence (TIS) program at the transcriptome level. The dataset is associated with the 2023 *Aging Cell* publication by Belhadj et al. from the Lomakin Lab (https://www.lomakinlab.org/) at Medical University of Vienna, Austria. 
 
 ---
 
@@ -29,7 +29,7 @@ This dataset was generated for the following publication. If you use this data i
 
 Chemotherapeutic drugs can induce cellular stress responses that lead to therapy resistance. In this study, we investigated the transcriptional adaptations of HeLa cells to poly(aneu)ploidogenic stress triggered by the taxoid chemotherapeutic agent, Docetaxel (DTX). We found that a single-dose exposure to a clinically-relevant subsaturating concentration of DTX is sufficient to elicit a "Titan" phenotype, characterized by large, polyploid cells.
 
-Bulk RNA-sequencing of these Titan cells revealed a significant engagement of transcriptional programs associated with **Therapy-Induced Senescence (TIS)**. This conclusion is supported by pathway analysis using publicly available tools such as [Enrichr](https://maayanlab.cloud/Enrichr/). These findings suggest that TIS at the transcriptome level is a key adaptive response to the genomic stress imposed by Docetaxel, providing insight into potential mechanisms of chemoresistance. This notion is consistent with the recent findings by [Bajtai et al., *Molecular Cancer*, 2025](https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-025-02310-0).
+Bulk RNA-sequencing of these Titan cells revealed a significant engagement of transcriptional programs associated with **Therapy-Induced Senescence (TIS)**. This conclusion is supported by pathway analysis using publicly available tools such as [Enrichr](https://maayanlab.cloud/Enrichr/). These findings suggest that TIS at the transcriptome level is a key adaptive response to the genomic stress imposed by Docetaxel, providing insight into potential mechanisms of phenotypic chemo-resistance/-tolerance. This notion is consistent with the recent findings by [Bajtai et al., *Molecular Cancer*, 2025](https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-025-02310-0), describing TIS as a transient drug resistance mechanism in cancer cells.
 
 ---
 
